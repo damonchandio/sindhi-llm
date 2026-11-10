@@ -1,0 +1,7 @@
+{
+ "model": "Qwen/Qwen3-4B",
+ "adapter": "out/lora-chat-4b",
+ "method": "letter A-D",
+ "belebele_snd_Arab": 0.6633,
+ "n": 900
+}

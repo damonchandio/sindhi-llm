@@ -1,0 +1,16 @@
+.venv/
+data/*.parquet
+data/*.txt
+out/
+__pycache__/
+.pytest_cache/
+data/*.jsonl
+data/corpus/
+data/tokens/
+data/voice/
+data/chat/train.jsonl
+out/
+
+_to_delete/
+run.log
+data/chat/mc.log

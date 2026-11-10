@@ -1,0 +1,4 @@
+trained 11 · base 0 · same 9  (20 prompts, judged blind by Damon Chandio, native speaker, 29 Oct 2026)
+
+v2 (Qwen3-4B base vs Qwen3-4B + Sindhi QLoRA, 1500 steps), 20 prompts: trained 8 · base 0 · same 12. Note from the judge: more fluent, but some continuations drift off the prompt topic.
+v3 chat (original Qwen3-4B vs Sindhi + chat-tuned Qwen3-4B), 20 held-out Sindhi requests: trained 15 · base 0 · same 5. Note from the judge: on topic now, but repeats words; answers end with Wikipedia leftovers ("حوالا").

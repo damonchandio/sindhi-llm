@@ -1,0 +1,8 @@
+torch
+transformers>=4.51
+peft>=0.10
+accelerate
+datasets
+pyarrow
+bitsandbytes>=0.46
+huggingface_hub

@@ -1,0 +1,6 @@
+{
+ "model": "Qwen/Qwen3-4B",
+ "adapter": null,
+ "belebele_snd_Arab": 0.29,
+ "n": 900
+}
